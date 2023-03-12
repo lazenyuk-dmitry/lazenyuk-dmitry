@@ -1,4 +1,4 @@
-# Всем привет :wave:
+# Всем привет :wave
 
 ## Я Frontend разработчик из Казахстана
 
@@ -25,18 +25,48 @@
 
 #### :earth_asia: Знание языков
 
-- ![Russian Federation](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ru.png "Russian Federation") **Русский — Родной**
-- ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") **Английский — A2 — Элементарный**
+- ![Russian Federation](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ru.png)
+  **Русский — Родной**
+- ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png)
+  **Английский — A2 — Элементарный**
 
 #### :clipboard: Мои резюме
 
-[![headhunter](https://img.shields.io/badge/headhunter-red?style=for-the-badge&logoColor=white)](https://hh.kz/resume/72c98b7cff050a8b320039ed1f5954456e4246)
-[![ХабрКарьера](https://img.shields.io/badge/Хабр%20Карьера-blue?style=for-the-badge&logoColor=white)](https://career.habr.com/dima-lazenyuk)
+<a href="https://hh.kz/resume/72c98b7cff050a8b320039ed1f5954456e4246" target="_blank">
+  <img
+    src="https://img.shields.io/badge/headhunter-red?style=for-the-badge&logoColor=white"
+    alt="HeadHunter"
+  />
+</a>
+<a href="https://career.habr.com/dima-lazenyuk" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Хабр%20Карьера-blue?style=for-the-badge&logoColor=white"
+    alt="ХабрКарьера"
+  />
+</a>
+<a
+  href="https://docs.google.com/document/d/1vNWZX9F5nWqyiW23pqGKzyMXxftQEvLZ6uhDuP_diCY/edit?usp=sharing"
+  target="_blank">
+  <img
+    src="https://img.shields.io/badge/GoogleDoc-blue?style=for-the-badge&logoColor=white"
+    alt="GoogleDoc"
+  />
+</a>
 
 #### :phone: Контакты
 
-[![VK](https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/lazenyk_dmitry)
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lazenyukdmitry)
+<a href="https://vk.com/lazenyk_dmitry" target="_blank">
+  <img
+    src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=VK&logoColor=white"
+    alt="VK"
+  />
+</a>
+<a href="https://t.me/lazenyukdmitry" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"
+    alt="VK"
+  />
+</a>
 
 #### :pushpin: Статистика
 
