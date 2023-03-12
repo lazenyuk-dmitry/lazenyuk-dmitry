@@ -1,4 +1,4 @@
-# Всем привет :wave
+# Всем привет :wave:
 
 ## Я Frontend разработчик из Казахстана
 
@@ -8,9 +8,15 @@
 
 #### :briefcase: Профессиональные навыки
 
-- Хорошие знания и опыт **HTML, PUG, CSS, CASS, SCSS, JavaScript, JQuery, AJAX, БЭМ, Bootstrap, адаптивная верстка сложных сайтов, простые анимации на сайтах Animate.css, WOW, Skrollr**.
-- Разработка сложных приложений с использованием **Vue, Vue Router, Vuex, Axios, Nuxt, Angular, Vuetify, Angular Material, REST API**.
-- Опыт работы с Cordova и настройки окружения, debug приложение под **Android** и **IOS**.
+- Хорошие знания и опыт
+  **HTML, PUG, CSS, CASS, SCSS, JavaScript, JQuery, AJAX,
+  БЭМ, Bootstrap, адаптивная верстка сложных сайтов, простые анимации на сайтах
+  Animate.css, WOW, Skrollr**.
+- Разработка сложных приложений с использованием
+  **Vue, Vue Router, Vuex, Axios, Nuxt, Angular,
+  Vuetify, Angular Material, REST API**.
+- Опыт работы с Cordova и настройки окружения, debug приложение под
+  **Android** и **IOS**.
 - Опыт настройки сборки проектов на **Webpack, Gulp, Vite**.
 - Опыт работы с **RxJS, TypeScript, SVG, Drag-and-Drop**.
 - Знание **Git, Git Flow, Linux/Unix, npm**.
@@ -32,41 +38,14 @@
 
 #### :clipboard: Мои резюме
 
-<a href="https://hh.kz/resume/72c98b7cff050a8b320039ed1f5954456e4246" target="_blank">
-  <img
-    src="https://img.shields.io/badge/headhunter-red?style=for-the-badge&logoColor=white"
-    alt="HeadHunter"
-  />
-</a>
-<a href="https://career.habr.com/dima-lazenyuk" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Хабр%20Карьера-blue?style=for-the-badge&logoColor=white"
-    alt="ХабрКарьера"
-  />
-</a>
-<a
-  href="https://docs.google.com/document/d/1vNWZX9F5nWqyiW23pqGKzyMXxftQEvLZ6uhDuP_diCY/edit?usp=sharing"
-  target="_blank">
-  <img
-    src="https://img.shields.io/badge/GoogleDoc-blue?style=for-the-badge&logoColor=white"
-    alt="GoogleDoc"
-  />
-</a>
+[![headhunter](https://img.shields.io/badge/headhunter-red?style=for-the-badge&logoColor=white)](https://hh.kz/resume/72c98b7cff050a8b320039ed1f5954456e4246)
+[![ХабрКарьера](https://img.shields.io/badge/Хабр%20Карьера-blue?style=for-the-badge&logoColor=white)](https://career.habr.com/dima-lazenyuk)
+[![GoogleDoc](https://img.shields.io/badge/GoogleDoc-blue?style=for-the-badge&logoColor=white)](https://docs.google.com/document/d/1vNWZX9F5nWqyiW23pqGKzyMXxftQEvLZ6uhDuP_diCY/edit?usp=sharing)
 
 #### :phone: Контакты
 
-<a href="https://vk.com/lazenyk_dmitry" target="_blank">
-  <img
-    src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=VK&logoColor=white"
-    alt="VK"
-  />
-</a>
-<a href="https://t.me/lazenyukdmitry" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"
-    alt="VK"
-  />
-</a>
+[![VK](https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/lazenyk_dmitry)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lazenyukdmitry)
 
 #### :pushpin: Статистика
 
