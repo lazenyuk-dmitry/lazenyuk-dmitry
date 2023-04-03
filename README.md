@@ -51,4 +51,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lazenyuk-dmitry&show_icons=true&theme=transparent&locale=ru)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazenyuk-dmitry&layout=compact&hide=liquid&theme=transparent&locale=ru&card_width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazenyuk-dmitry&layout=compact&hide=liquid,c,makefile&theme=transparent&locale=ru&card_width=400)
