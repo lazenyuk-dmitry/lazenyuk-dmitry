@@ -8,26 +8,13 @@
 
 #### :briefcase: Профессиональные навыки
 
-- Хорошие знания и опыт
-  **HTML, PUG, CSS, CASS, SCSS, JavaScript, JQuery, AJAX,
-  БЭМ, Bootstrap, адаптивная верстка сложных сайтов, простые анимации на сайтах
-  Animate.css, WOW, Skrollr**.
-- Разработка сложных приложений с использованием
-  **Vue, Vue Router, Vuex, Axios, Nuxt, Angular,
-  Vuetify, Angular Material, REST API**.
-- Опыт работы с Cordova и настройки окружения, debug приложение под
-  **Android** и **IOS**.
-- Опыт настройки сборки проектов на **Webpack, Gulp, Vite**.
-- Опыт работы с **RxJS, TypeScript, SVG, Drag-and-Drop**.
-- Знание **Git, Git Flow, Linux/Unix, npm**.
-- Опыт работы с **Ember.js**.
-- Базовые знания **React, Node.js, WebWorkers, PHP, SQL, Apache server, Docker**.
-
-#### :dart: Личные навыки
-
-- Перфекционист.
-- Умею разобраться в чужом коде и исправить.
-- Умение работать в команде.
+- Уверенные знания **Vue(2, 3), Vuex, Pinia, Vue Router, Vue CLI, Vite.**
+- Уверенные навыки **HTML, CSS, JavaScript.**
+- Опыт работы с другими фреймворками: **Nuxt, Angular, Ember.js.**
+- Опыт в разработке мобильных приложений **Android и IOS, Cordova + Vue.**
+- Навыки в настройке конфига сборок: **Webpack, Gulp, Vite.**
+- Есть опыт организации работы на проекте. Написания документации.
+- **Git, REST API, HTTP, Linux/Unix, npm/yarn, Storybook.**
 
 #### :earth_asia: Знание языков
 
@@ -44,7 +31,7 @@
 
 #### :phone: Контакты
 
-[![VK](https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/lazenyk_dmitry)
+<!-- [![VK](https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/lazenyk_dmitry) -->
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lazenyukdmitry)
 
 #### :pushpin: Статистика
