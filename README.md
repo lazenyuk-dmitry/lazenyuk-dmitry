@@ -1,10 +1,10 @@
-# Hi all :wave:
+# Hey There :wave:
 
 ## I am a Frontend developer from Kazakhstan
 
-### :hammer_and_wrench: Мои технологии и языки
+### :hammer_and_wrench: Languages and Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,vue,nuxt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,vue,nuxtjs,electron,nodejs)](https://skillicons.dev)
 
 #### :earth_asia: Knowledge of languages
 
@@ -13,7 +13,7 @@
 - ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png)
   **English — B1 — Intermediate**
 
-#### :clipboard: My CVs
+#### :clipboard: CV
 
 [![headhunter](https://img.shields.io/badge/headhunter-red?style=for-the-badge&logoColor=white)](https://hh.kz/resume/72c98b7cff050a8b320039ed1f5954456e4246)
 [![ХабрКарьера](https://img.shields.io/badge/Хабр%20Карьера-blue?style=for-the-badge&logoColor=white)](https://career.habr.com/dima-lazenyuk)
@@ -24,7 +24,7 @@
 <!-- [![VK](https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/lazenyk_dmitry) -->
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lazenyukdmitry)
 
-#### :pushpin: Статистика
+#### :pushpin: Statistics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lazenyuk-dmitry&show_icons=true&theme=transparent&locale=ru)
 
