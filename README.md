@@ -1,10 +1,11 @@
 # Hey There :wave:
 
-## I am a Frontend developer from Kazakhstan
+## I am a Full-Stack Developer with expertise in DevOps/SRE and Python and Databases. 
+## I am from Kazakhstan.
 
 ### :hammer_and_wrench: Languages and Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,vue,nuxtjs,electron,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,vue,nuxtjs,electron,nodejs,linux,py)](https://skillicons.dev)
 
 #### :earth_asia: Knowledge of languages
 
@@ -15,9 +16,9 @@
 
 #### :clipboard: CV
 
-[![headhunter](https://img.shields.io/badge/headhunter-red?style=for-the-badge&logoColor=white)](https://hh.kz/resume/72c98b7cff050a8b320039ed1f5954456e4246)
+[![headhunter](https://img.shields.io/badge/headhunter-red?style=for-the-badge&logoColor=white)]([https://hh.kz/resume/72c98b7cff050a8b320039ed1f5954456e4246](https://rudnyj.hh.kz/resume/e3829b3dff0f651e2e0039ed1f334476676667))
 [![ХабрКарьера](https://img.shields.io/badge/Хабр%20Карьера-blue?style=for-the-badge&logoColor=white)](https://career.habr.com/dima-lazenyuk)
-[![GoogleDoc](https://img.shields.io/badge/GoogleDoc-blue?style=for-the-badge&logoColor=white)](https://docs.google.com/document/d/1vNWZX9F5nWqyiW23pqGKzyMXxftQEvLZ6uhDuP_diCY/edit?usp=sharing)
+[![GoogleDoc](https://img.shields.io/badge/GoogleDoc-blue?style=for-the-badge&logoColor=white)](https://docs.google.com/document/d/18ZaDk-1rwEJiXqZHcULEIpP5Z9l2dj2sC6_f32cJQi0/edit?tab=t.0)
 
 #### :phone: Contacts
 
