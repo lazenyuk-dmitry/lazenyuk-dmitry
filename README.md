@@ -5,7 +5,7 @@
 
 ### :hammer_and_wrench: Languages and Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,vue,nuxtjs,electron,nodejs,linux,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,vue,nuxtjs,electron,nodejs,linux,py,docker,postgres)](https://skillicons.dev)
 
 #### :earth_asia: Knowledge of languages
 
