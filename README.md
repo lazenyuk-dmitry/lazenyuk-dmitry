@@ -1,7 +1,6 @@
 # Hey There :wave:
 
 ## I am a Full-Stack Developer with expertise in DevOps/SRE and Python and Databases. 
-## I am from Kazakhstan.
 
 ### :hammer_and_wrench: Languages and Frameworks
 
