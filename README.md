@@ -1,6 +1,6 @@
 # Hey There :wave:
 
-## I am a Full-Stack Developer with expertise in DevOps/SRE and Python and Databases. 
+## I am a Full-Stack Developer with expertise in DevOps/SRE, Python and Databases. 
 
 ### :hammer_and_wrench: Languages and Frameworks
 
